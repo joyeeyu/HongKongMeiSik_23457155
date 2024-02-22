@@ -1,0 +1,237 @@
+.subheader-01 {
+    width: 1000px;
+    height: 30px;
+}
+
+.subheader-01:hover {
+    transform: scale(1.2);
+}
+
+.subheader-02 {
+    width: 1000px;
+    height: 30px;
+}
+
+
+.standout{
+    color:rgb(201, 201, 201);
+}
+
+.standout_2{
+    color:rgb(228, 255, 148);
+}
+
+.standout_3{
+    font-size: 24px; 
+    font-weight: bold; 
+}
+
+.standout_4{
+    color:rgb(220, 250, 130);
+}
+
+.standout_5{
+    font-size: 12px; 
+    color: grey
+}
+
+.standout_6{
+  color:rgb(116, 255, 243);
+}
+
+.standout_7{
+  color:rgb(193, 248, 105);
+
+}
+
+.standout_8{
+  color:rgb(226, 167, 18);
+
+}
+
+.standout_9{
+  color:rgba(141, 0, 206, 0.488);
+
+}
+
+.background{
+  background:rgb(255, 242, 0);
+
+}
+
+  .image-container { 
+    position: relative; 
+    display: inline-block; 
+  } 
+   
+  .image-container img { 
+    display: block; 
+    width: 1000px; 
+    height: 250px; 
+  } 
+   
+  .image-description { 
+    position: absolute; 
+    top: 35px; 
+    left: 30px; 
+    color: #fff; 
+    font-size: 20px; 
+    font-weight: bold; 
+    z-index: 1;  
+  } 
+
+  .image_2 {
+    max-width: 100%;
+    height: auto
+  }
+  
+  img {
+    vertical-align: middle
+  }
+  
+  a {
+    color: inherit
+  }
+
+
+.main {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.section {
+  width: 50%;
+  height: 100%;
+}
+
+.main_section1
+{
+  background:rgba(198, 228, 204, 0.735);
+  font-size: 20px;
+  font-family:'Times New Roman', Times, Serif;
+  text-align: center
+}
+
+.main_section2
+{
+  background:rgba(147, 192, 155);
+  font-size: 20px;
+  font-family:'Times New Roman', Times, Serif;
+  text-align: center
+
+}
+.main_section3
+{
+  background:rgb(160, 255, 247);
+}
+
+.main_section4
+{
+  background: rgba(182, 182, 182);
+  text-align:center
+}
+
+.main_section5
+{
+  background:rgba(255, 246, 176, 0.373);
+  text-align:center;
+  font-family:'Times New Roman', Times, Serif;
+  font-size: 18px;
+}
+
+.main_section6
+{
+  text-align:center;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 30px;
+  font-style: bold italic;
+}
+
+.main_section7
+{
+  background:rgba(204, 163, 223, 0.488);
+  text-align:center;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.font1
+{
+  background:rgba(147, 192, 155);
+  font-family:'Times New Roman', Times, Serif;
+  font-size: 18px;
+}
+
+.part-01:hover {
+  transform: scale(1.05);
+}
+
+.font2
+{
+  background:rgb(147, 191, 192);
+  font-family:'Times New Roman', Times, Serif;
+  font-size: 18px;
+}
+
+article{
+  background-color: rgb(82, 220, 220);
+  border: 0px solid rgb(147, 191, 192);
+  padding: 10px;
+  margin: 0px;
+}
+
+.font3
+{
+  background:rgba(0, 0, 0);
+  font-size: 18px;
+  font-family:'Times New Roman', Times, Serif;
+}
+
+.font4
+{
+  background:rgb(247, 234, 182);
+  font-size: 18px;
+  font-family:'Times New Roman', Times, Serif;
+}
+
+.font5
+{
+  background:rgba(133, 51, 215, 0.373);
+  font-size: 18px;
+  font-family:'Times New Roman', Times, Serif;
+}
+
+.font6
+{
+  font-size: 18px;
+  font-family:'Times New Roman', Times, Serif;
+}
+
+.article-2{
+  background-color: rgba(88, 88, 88);
+  border: 0px solid rgba(182, 182, 182);
+  padding: 10px;
+  margin: 0px;
+}
+
+
+
+.button {
+  background:url(./image/tamjai.png) no-repeat;
+  cursor:-webkit-grab;
+  border: none;
+}
+
+a img {
+  border: none;
+  cursor: grab;
+}
